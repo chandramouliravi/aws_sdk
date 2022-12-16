@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: software.amazon.awssdk:s3-transfer-manager:2.17.103-PREVIEW">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/s3-transfer-manager/2.17.103-PREVIEW/s3-transfer-manager-2.17.103-PREVIEW.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/s3-transfer-manager/2.17.103-PREVIEW/s3-transfer-manager-2.17.103-PREVIEW-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/s3-transfer-manager/2.17.103-PREVIEW/s3-transfer-manager-2.17.103-PREVIEW-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
